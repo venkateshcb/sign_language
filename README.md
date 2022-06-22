@@ -1,1 +1,1 @@
-# sign_language
+# sign language recognition with opencv and CNN
